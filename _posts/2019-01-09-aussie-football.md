@@ -1,6 +1,6 @@
 ---
 layout: post
 title: Aussie Football Analysis
-subtitle: 
+subtitle: Analysis of Australian Football Matches and Statistics
 bigimg: /img/path.jpg
 ---
