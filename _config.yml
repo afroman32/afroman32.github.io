@@ -2,6 +2,7 @@
 
 # Name of website
 title: Makoa's Portfolio
+subtitle: Data Science
 
 # Short description of your site
 description: Data Science
@@ -22,7 +23,6 @@ description: Data Science
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "https://afroman32.github.io/"
 
